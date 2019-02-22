@@ -1,0 +1,2 @@
+# Gesture-based-Remote-Controlled-Smart-Wheel-Chair
+• Minimized power usage to microamperes by incorporating low power nodes for communication. • Improved security by implementing Man In Middle protection scheme using Out of Band Authentication • Enhanced reliability and range of Mesh by implementing features like Mesh Hopping and Persistent data. • Achieved safety by designing automatic break system in wheelchair on obstacle detection.
