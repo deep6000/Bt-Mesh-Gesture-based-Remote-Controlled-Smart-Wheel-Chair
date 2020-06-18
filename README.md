@@ -23,7 +23,6 @@ The wheelchairs are usually controlled by a joystick attached to it. It is not p
 - Service 2 : Level States - Motor Speed, Motor On/Off.
 
 
-
 # PROJECT ACHIEVEMENTS
 - Minimized power usage to microamperes by incorporating low power nodes for communication. 
 - Improved security by implementing Man In Middle protection scheme using Out of Band Authentication 
