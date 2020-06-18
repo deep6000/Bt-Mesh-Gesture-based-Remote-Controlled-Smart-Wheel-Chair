@@ -11,6 +11,13 @@ The wheelchairs are usually controlled by a joystick attached to it. It is not p
  - If the wheelchair is out of range of the Remote, the Remote(LPN) communicates with the nearest Friend Node which relays the message to the Wheelchair(Friend) the Remote wishes to control.
  - Central Device can be used to change the gesture parameters of LPN node and also the speed of the Wheelchair. 
 
+# FUNTCTIONAL BLOCK DIAGRAM
+![alt text](https://github.com/deep6000/Bt-Mesh-Gesture-based-Remote-Controlled-Smart-Wheel-Chair/blob/master/Documents/Block_Diagram.png)
+
+# FLOWCHARTS
+![alt text](https://github.com/deep6000/Bt-Mesh-Gesture-based-Remote-Controlled-Smart-Wheel-Chair/blob/master/Documents/Flowchart.png)
+
+![alt text](https://github.com/deep6000/Bt-Mesh-Gesture-based-Remote-Controlled-Smart-Wheel-Chair/blob/master/Documents/Friend.PNG)
 # MODULES IMPLEMENTED
  ## Mesh Provisioning 
  - OOB Authentication is used where a OTP is displayed on LCD and user is asked to enter it.
