@@ -12,8 +12,8 @@ The wheelchairs are usually controlled by a joystick attached to it. It is not p
  - Central Device can be used to change the gesture parameters of LPN node and also the speed of the Wheelchair. 
 
 
-
-• Minimized power usage to microamperes by incorporating low power nodes for communication. 
-• Improved security by implementing Man In Middle protection scheme using Out of Band Authentication 
-• Enhanced reliability and range of Mesh by implementing features like Mesh Hopping and Persistent data. 
-• Achieved safety by designing automatic break system in wheelchair on obstacle detection.
+# PROJECT ACHIEVEMENTS
+- Minimized power usage to microamperes by incorporating low power nodes for communication. 
+- Improved security by implementing Man In Middle protection scheme using Out of Band Authentication 
+- Enhanced reliability and range of Mesh by implementing features like Mesh Hopping and Persistent data. 
+- Achieved safety by designing automatic break system in wheelchair on obstacle detection.
